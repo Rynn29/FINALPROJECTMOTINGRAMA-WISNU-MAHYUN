@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobileComputing</string>
+    <string name="hitung" />
+    <string name="bangun_ruang" />
+    <string name="dibuat_oleh_aldi" />
+    <string name="todo" />
+    <string name="manajemen_informatika" />
+    <string name="kubus" />
+    <string name="todoo" />
+    <string name="kerucut" />
+</resources>
